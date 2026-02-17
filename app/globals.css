@@ -212,10 +212,11 @@
 .logo-name {
   font-family: 'Syne', Arial, Helvetica, sans-serif;
   font-weight: 900; font-size: 14px; color: #fff;
+  margin-top: 2px;
 }
 .logo-role {
   font-size: 10px; font-weight: 700;
-  color: rgba(255,255,255,0.35); letter-spacing: 2px; margin-top: 3px;
+  color: rgba(255,255,255,0.35); letter-spacing: 2px; margin-top: 6px;
 }
 .logo-text { display: flex; flex-direction: column; gap: 0; }
 .nav-logo-img { height: 40px; width: auto; object-fit: contain; flex-shrink: 0; }
